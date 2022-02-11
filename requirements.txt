@@ -1,0 +1,5 @@
+docarray
+Pillow
+protobuf
+lz4
+requests
